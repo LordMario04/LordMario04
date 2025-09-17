@@ -2,6 +2,11 @@
 🔴🟡🟢
 </div>
 
+<div align="center">
+<img src="banner mario.png"/>
+</div>
+ 
+
 <p align="center">
  <a href="https://github.com/LordMario04">
       <img src="https://img.shields.io/badge/Followers%20❤️-007bff?style=for-the-badge" alt="Followers" />
